@@ -1,10 +1,33 @@
-- 👋 Hi, I’m @ayushbhattacharyacodes
-- 👀 I’m interested in front end development 
-- 🌱 I’m currently learning HTML CSS JS React Next.JS
-- 📫 How to reach me https://www.linkedin.com/in/ayushb83/
+Hi! 
+I am **Ayush Bhattacharya** aka **@ayushbhattacharyacodes**
+
+## My current interests are
+
+ *Data Science
+ Front End Web Development*
+
+**
+
+## My skills
+
+ - HTML5
+ - CSS
+ - JS w/ ES6
+ - React
+ - Redux
+ - MS SQL 
+
+## Currently I am learning
+
+ - Python
+ - MS Excel
+
+## Reach out to me 
+[LinkedIn -Ayush Bhattacharya](https://www.linkedin.com/in/ayushb83/)
 
 
-<!---
-ayushbhattacharyacodes/ayushbhattacharyacodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Ratings
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=ayushbhattacharyacodes&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+
