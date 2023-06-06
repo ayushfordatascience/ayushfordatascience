@@ -4,23 +4,23 @@ I am **Ayush Bhattacharya** aka **@ayushbhattacharyacodes**
 ## My current interests are
 
  *Data Science
- Front End Web Development*
-
+ *Data Analysis
+ 
 **
 
 ## My skills
 
- - HTML5
- - CSS
- - JS w/ ES6
- - React
- - Redux
- - MS SQL 
+ - MS SQL Server
+ - Python
+ - React.JS
+
 
 ## Currently I am learning
-
- - Python
+ - Pandas
+ - Numpy
  - MS Excel
+ - Power BI 
+
 
 ## Reach out to me 
 [LinkedIn -Ayush Bhattacharya](https://www.linkedin.com/in/ayushb83/)
