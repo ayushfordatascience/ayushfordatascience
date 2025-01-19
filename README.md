@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushbhattacharyacodes&label=Profile%20views&color=0e75b6&style=flat" alt="ayushbhattacharyacodes" /> </p>
 
-- 🌱 I’m currently learning **PowerBI,Excel**
+- 🌱 I’m currently learning **LLM's and Generative AI**
 
 - 📫 How to reach me **iamayush83@gmail.com**
 
